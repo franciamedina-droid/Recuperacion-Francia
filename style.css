@@ -1,0 +1,65 @@
+*
+#Cuerpo{
+    background-color: hsl(77, 85%, 92%);
+    border: 12px;
+}
+
+#imagen{
+    width: 150px;
+    height: 150px;
+    border-radius: 10%;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+#titulo1{
+    padding: 1px;
+    background-color: #526e5b;
+    text-align: center;
+    color: #223f2c;
+
+}
+
+#pie{
+    padding: 1px;
+background-color:#526e5b;
+color:#1c3527;
+text-align: center;
+}
+
+#Ubicacion{
+    margin: 1px;
+    background-color: rgb(226, 188, 140);
+    text-align: center;
+    color: #8d704d;
+
+}
+
+#Ubi{
+    text-align: center;
+}
+
+#Actividades{
+     margin: 1px;
+    background-color: rgb(226, 188, 140);
+    text-align: center;
+    color: #8d704d;
+}
+
+#Descripcion{
+     margin: 1px;
+    background-color: rgb(226, 188, 140);
+    text-align: center;
+    color: #8d704d;
+}
+
+#descrip{
+    text-align: center;
+    line-height: 1.5;
+}
+
+#Act{
+    text-align: center;
+    line-height: 2;
+}
